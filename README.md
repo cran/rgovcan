@@ -8,6 +8,9 @@ v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/
 [![R-CMD-check](https://github.com/VLucet/rgovcan/workflows/R-CMD-check/badge.svg)](https://github.com/VLucet/rgovcan/actions)
 [![Codecov test
 coverage](https://codecov.io/gh/VLucet/rgovcan/branch/master/graph/badge.svg)](https://codecov.io/gh/VLucet/rgovcan?branch=master)
+[![CRAN
+Version](https://img.shields.io/cran/v/rgovcan?label=CRAN)](https://CRAN.R-project.org/package=rgovcan)
+[![Downloads](https://cranlogs.r-pkg.org/badges/rgovcan?color=blue)](https://CRAN.R-project.org/package=rgovcan/)
 
 A R package to interact with the Open Canada API (see
 <https://open.canada.ca/en/access-our-application-programming-interface-api>),
@@ -28,9 +31,15 @@ Hex Logo done with `hexSticker`:
 
 ## Installation
 
-Until release to CRAN, you will need to use
+You can install `rgovcan` from CRAN like so:
+
+``` r
+install.packages("rgovcan")
+```
+
+For the development version, you will need to use
 [`remotes`](https://CRAN.R-project.org/package=remotes) to install from
-source.
+source:
 
 ``` r
 install.packages("remotes")

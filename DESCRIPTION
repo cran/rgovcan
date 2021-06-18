@@ -1,7 +1,7 @@
 Package: rgovcan
 Type: Package
 Title: Easy Access to the Canadian Open Government Portal
-Version: 1.0.2
+Version: 1.0.3
 Description: Allows to search for existing resources, including datasets, on 
     the Canadian Open Government portal (<https://open.canada.ca/en>). It is 
     also designed to allow users to easily download a range of files directly 
@@ -19,9 +19,9 @@ RoxygenNote: 7.1.1
 URL: https://vlucet.github.io/rgovcan/
 BugReports: https://github.com/VLucet/rgovcan/issues
 NeedsCompilation: no
-Packaged: 2021-06-12 13:48:34 UTC; vlucet
+Packaged: 2021-06-18 14:31:05 UTC; vlucet
 Author: Valentin Lucet [aut, cre],
   Kevin Cazelles [ctb] (<https://orcid.org/0000-0001-6619-9874>)
 Maintainer: Valentin Lucet <valentin.lucet@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-06-14 09:10:02 UTC
+Date/Publication: 2021-06-18 15:50:02 UTC
